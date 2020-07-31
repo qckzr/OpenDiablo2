@@ -20,7 +20,7 @@ func defaultConfig() *Configuration {
 		VsyncEnabled:    true,
 		SfxVolume:       defaultSfxVolume,
 		BgmVolume:       defaultBgmVolume,
-		MpqPath:         "C:/Program Files (x86)/Diablo II",
+		MpqPath:         "D:/Diablo II",
 		Backend:         "Ebiten",
 		MpqLoadOrder: []string{
 			"Patch_D2.mpq",
